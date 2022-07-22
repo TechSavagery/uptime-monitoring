@@ -4,36 +4,40 @@
     "url": "https://techsavagery.net",
     "icon": "https://favicons.githubusercontent.com/techsavagery.net",
     "slug": "tech-savagery",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 311,
     "timeDay": 295,
     "timeWeek": 311,
     "timeMonth": 311,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 3
+    }
   },
   {
     "name": "Kirschenman Enterprises Inc",
     "url": "https://www.kirschenman.com/",
     "icon": "https://favicons.githubusercontent.com/www.kirschenman.com",
     "slug": "kirschenman-enterprises-inc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 413,
     "timeDay": 294,
     "timeWeek": 413,
     "timeMonth": 413,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 2
+    }
   },
   {
     "name": "LaDell Erby",
@@ -58,63 +62,69 @@
     "url": "https://heathermorgan.co",
     "icon": "https://favicons.githubusercontent.com/heathermorgan.co",
     "slug": "heather-morgan-co",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1738,
     "timeDay": 2253,
     "timeWeek": 1738,
     "timeMonth": 1738,
     "timeYear": 1738,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 2
+    }
   },
   {
     "name": "Foodish Solutions",
     "url": "https://foodishsolutions.com",
     "icon": "https://favicons.githubusercontent.com/foodishsolutions.com",
     "slug": "foodish-solutions",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 238,
     "timeDay": 307,
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 1
+    }
   },
   {
     "name": "Matthews Vineyard",
     "url": "https://matthewsvineyard.com",
     "icon": "https://favicons.githubusercontent.com/matthewsvineyard.com",
     "slug": "matthews-vineyard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 324,
     "timeDay": 338,
     "timeWeek": 324,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 1
+    }
   },
   {
     "name": "SM2 Trust",
     "url": "https://sm2trust.com",
     "icon": "https://favicons.githubusercontent.com/sm2trust.com",
     "slug": "sm-2-trust",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +133,9 @@
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 0
+    }
   },
   {
     "name": "Gail Webber",
