@@ -62,10 +62,10 @@
     "url": "https://ladellerby.com",
     "icon": "https://icons.duckduckgo.com/ip3/ladellerby.com.ico",
     "slug": "la-dell-erby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
@@ -73,7 +73,9 @@
     "timeWeek": 379,
     "timeMonth": 310,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-10": 1
+    }
   },
   {
     "name": "Heather Morgan Co",
@@ -242,11 +244,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 605,
     "timeDay": 475,
     "timeWeek": 253,
