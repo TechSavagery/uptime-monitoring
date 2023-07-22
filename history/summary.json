@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/techsavagery.net.ico",
     "slug": "tech-savagery",
     "status": "up",
-    "uptime": "93.69%",
+    "uptime": "93.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.19%",
+    "uptimeMonth": "84.47%",
     "uptimeYear": "93.66%",
     "time": 471,
-    "timeDay": 418,
-    "timeWeek": 373,
-    "timeMonth": 780,
-    "timeYear": 472,
+    "timeDay": 352,
+    "timeWeek": 374,
+    "timeMonth": 767,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2023-07-05": 272,
       "2023-07-02": 49,
@@ -51,8 +51,7 @@
       "2022-08-01": 495,
       "2022-07-28": 23,
       "2022-07-26": 158,
-      "2022-07-25": 129,
-      "2022-07-22": 29
+      "2022-07-25": 129
     }
   },
   {
@@ -61,15 +60,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
     "status": "up",
-    "uptime": "96.89%",
+    "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.15%",
+    "uptimeMonth": "83.44%",
     "uptimeYear": "96.87%",
-    "time": 705,
-    "timeDay": 463,
-    "timeWeek": 379,
-    "timeMonth": 852,
+    "time": 704,
+    "timeDay": 320,
+    "timeWeek": 385,
+    "timeMonth": 839,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2023-07-06": 383,
@@ -104,8 +103,7 @@
       "2022-07-28": 71,
       "2022-07-26": 183,
       "2022-07-25": 128,
-      "2022-07-24": 24,
-      "2022-07-22": 28
+      "2022-07-24": 24
     }
   },
   {
@@ -120,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 450,
-    "timeWeek": 331,
-    "timeMonth": 291,
+    "timeDay": 291,
+    "timeWeek": 334,
+    "timeMonth": 289,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2022-12-10": 16
@@ -140,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 414,
-    "timeDay": 509,
-    "timeWeek": 399,
-    "timeMonth": 318,
-    "timeYear": 405,
+    "timeDay": 422,
+    "timeWeek": 413,
+    "timeMonth": 314,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-11-19": 22,
@@ -153,8 +151,7 @@
       "2022-07-26": 157,
       "2022-07-25": 235,
       "2022-07-24": 28,
-      "2022-07-23": 174,
-      "2022-07-22": 74
+      "2022-07-23": 174
     }
   },
   {
@@ -163,18 +160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/foodishsolutions.com.ico",
     "slug": "foodish-solutions",
     "status": "down",
-    "uptime": "81.96%",
+    "uptime": "81.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.87%",
-    "time": 281,
-    "timeDay": 257,
-    "timeWeek": 210,
-    "timeMonth": 182,
+    "uptimeYear": "81.60%",
+    "time": 280,
+    "timeDay": 222,
+    "timeWeek": 214,
+    "timeMonth": 183,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-07-21": 40,
+      "2023-07-22": 40,
+      "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
@@ -250,8 +248,7 @@
       "2022-07-26": 157,
       "2022-07-25": 235,
       "2022-07-24": 2,
-      "2022-07-23": 144,
-      "2022-07-22": 27
+      "2022-07-23": 144
     }
   },
   {
@@ -260,14 +257,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.81%",
+    "uptimeMonth": "85.10%",
     "uptimeYear": "97.09%",
     "time": 424,
-    "timeDay": 499,
-    "timeWeek": 394,
+    "timeDay": 325,
+    "timeWeek": 395,
     "timeMonth": 338,
     "timeYear": 425,
     "dailyMinutesDown": {
@@ -293,8 +290,7 @@
       "2022-07-28": 46,
       "2022-07-26": 156,
       "2022-07-25": 99,
-      "2022-07-23": 143,
-      "2022-07-22": 27
+      "2022-07-23": 143
     }
   },
   {
@@ -303,15 +299,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sm2trust.com.ico",
     "slug": "sm-2-trust",
     "status": "up",
-    "uptime": "90.82%",
+    "uptime": "90.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.11%",
+    "uptimeMonth": "64.40%",
     "uptimeYear": "90.78%",
-    "time": 495,
-    "timeDay": 450,
-    "timeWeek": 368,
-    "timeMonth": 434,
+    "time": 494,
+    "timeDay": 334,
+    "timeWeek": 373,
+    "timeMonth": 431,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2023-07-08": 227,
@@ -359,8 +355,7 @@
       "2022-07-28": 46,
       "2022-07-26": 156,
       "2022-07-25": 207,
-      "2022-07-23": 141,
-      "2022-07-22": 26
+      "2022-07-23": 141
     }
   },
   {
@@ -374,11 +369,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
-    "time": 1628,
-    "timeDay": 1306,
-    "timeWeek": 1481,
-    "timeMonth": 1544,
-    "timeYear": 1628,
+    "time": 1627,
+    "timeDay": 1348,
+    "timeWeek": 1450,
+    "timeMonth": 1533,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2023-07-07": 22,
       "2023-06-12": 20,
@@ -406,11 +401,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.87%",
-    "time": 966,
-    "timeDay": 516,
+    "time": 965,
+    "timeDay": 431,
     "timeWeek": 1113,
-    "timeMonth": 1915,
-    "timeYear": 964,
+    "timeMonth": 1914,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2023-07-07": 141,
       "2023-07-06": 62,
@@ -432,14 +427,14 @@
     "slug": "cameron-moresco-cp-as",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 455,
-    "timeDay": 542,
-    "timeWeek": 330,
-    "timeMonth": 340,
+    "timeDay": 261,
+    "timeWeek": 339,
+    "timeMonth": 336,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2023-07-20": 38,
@@ -485,9 +480,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 187,
-    "timeWeek": 161,
-    "timeMonth": 157,
+    "timeDay": 317,
+    "timeWeek": 178,
+    "timeMonth": 163,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -503,9 +498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 48,
-    "timeWeek": 125,
-    "timeMonth": 156,
+    "timeDay": 238,
+    "timeWeek": 130,
+    "timeMonth": 162,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-12-24": 16,
