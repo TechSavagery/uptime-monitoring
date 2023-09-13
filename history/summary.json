@@ -97,9 +97,9 @@
     "url": "https://ladellerby.com",
     "icon": "https://icons.duckduckgo.com/ip3/ladellerby.com.ico",
     "slug": "la-dell-erby",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -109,6 +109,7 @@
     "timeMonth": 274,
     "timeYear": 302,
     "dailyMinutesDown": {
+      "2023-09-13": 0,
       "2023-08-09": 72,
       "2022-12-10": 16
     }
@@ -142,7 +143,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -179,7 +180,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sm2trust.com.ico",
     "slug": "sm-2-trust",
     "status": "up",
-    "uptime": "92.00%",
+    "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -310,7 +311,7 @@
     "timeDay": 438,
     "timeWeek": 455,
     "timeMonth": 951,
-    "timeYear": 404,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2023-09-05": 29,
       "2023-08-29": 230,
