@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2024-04-02": 1316,
+      "2024-04-02": 1317,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
@@ -114,7 +114,7 @@
     "slug": "kirschenman-enterprises-inc",
     "status": "up",
     "uptime": "94.81%",
-    "uptimeDay": "1.69%",
+    "uptimeDay": "1.72%",
     "uptimeWeek": "58.21%",
     "uptimeMonth": "50.75%",
     "uptimeYear": "91.77%",
@@ -233,7 +233,7 @@
     "slug": "matthews-vineyard",
     "status": "up",
     "uptime": "96.11%",
-    "uptimeDay": "64.43%",
+    "uptimeDay": "64.45%",
     "uptimeWeek": "87.94%",
     "uptimeMonth": "66.21%",
     "uptimeYear": "94.06%",
@@ -551,18 +551,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.restorativepartners.org.ico",
     "slug": "restorative-partners",
     "status": "down",
-    "uptime": "2.51%",
-    "uptimeDay": "2.51%",
-    "uptimeWeek": "2.51%",
-    "uptimeMonth": "2.51%",
-    "uptimeYear": "2.51%",
+    "uptime": "1.33%",
+    "uptimeDay": "1.33%",
+    "uptimeWeek": "1.33%",
+    "uptimeMonth": "1.33%",
+    "uptimeYear": "1.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-02": 0
+      "2024-04-02": 1
     }
   }
 ]
