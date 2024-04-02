@@ -23,6 +23,12 @@ sites:
     url: https://www.djybre.com
   - name: Infraspec.io  
     url: https://www.infraspec.io
+  - name: Locals Taproom  
+    url: https://www.localstaproomavila.com
+  - name: Bridge Cafe  
+    url: https://www.thebridgecafe.org
+  - name: Restorative Partners  
+    url: https://www.restorativepartners.org
 assignees: 
   - ladellerby
 status-website:
