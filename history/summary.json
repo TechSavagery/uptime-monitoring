@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/techsavagery.net.ico",
     "slug": "tech-savagery",
     "status": "up",
-    "uptime": "84.36%",
+    "uptime": "84.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -264,15 +264,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "95.34%",
+    "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.71%",
+    "uptimeMonth": "88.23%",
     "uptimeYear": "92.03%",
     "time": 455,
     "timeDay": 393,
     "timeWeek": 411,
-    "timeMonth": 468,
+    "timeMonth": 476,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2024-05-21": 562,
@@ -336,7 +336,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sm2trust.com.ico",
     "slug": "sm-2-trust",
     "status": "up",
-    "uptime": "91.24%",
+    "uptime": "91.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.72%",
@@ -589,9 +589,9 @@
     "url": "https://restorativepartners.org",
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -600,6 +600,8 @@
     "timeWeek": 233,
     "timeMonth": 293,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-30": 0
+    }
   }
 ]
