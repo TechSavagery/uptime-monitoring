@@ -118,9 +118,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.70%",
+    "uptimeWeek": "65.08%",
     "uptimeMonth": "81.80%",
     "uptimeYear": "90.20%",
     "time": 604,
@@ -312,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sm2trust.com.ico",
     "slug": "sm-2-trust",
     "status": "up",
-    "uptime": "91.70%",
+    "uptime": "91.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "92.58%",
+    "uptimeYear": "92.63%",
     "time": 578,
     "timeDay": 572,
     "timeWeek": 562,
@@ -418,7 +418,7 @@
     "timeDay": 436,
     "timeWeek": 498,
     "timeMonth": 927,
-    "timeYear": 871,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2024-06-18": 109,
       "2024-06-17": 8,
@@ -508,9 +508,9 @@
     "url": "https://localstaproomavila.com",
     "icon": "https://icons.duckduckgo.com/ip3/localstaproomavila.com.ico",
     "slug": "locals-taproom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -519,7 +519,9 @@
     "timeWeek": 347,
     "timeMonth": 340,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-07": 0
+    }
   },
   {
     "name": "Bridge Cafe",
