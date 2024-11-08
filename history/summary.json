@@ -14,7 +14,7 @@
     "timeDay": 251,
     "timeWeek": 340,
     "timeMonth": 328,
-    "timeYear": 1081,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-04-19": 1380,
       "2024-04-18": 1440,
@@ -223,9 +223,9 @@
     "url": "https://heathermorgan.co",
     "icon": "https://icons.duckduckgo.com/ip3/heathermorgan.co.ico",
     "slug": "heather-morgan-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -234,7 +234,9 @@
     "timeWeek": 238,
     "timeMonth": 334,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-08": 0
+    }
   },
   {
     "name": "Matthews Vineyard",
@@ -242,18 +244,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "down",
-    "uptime": "94.12%",
+    "uptime": "94.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.65%",
-    "uptimeYear": "90.01%",
+    "uptimeMonth": "66.30%",
+    "uptimeYear": "89.98%",
     "time": 430,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 391,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-11-08": 44,
+      "2024-11-08": 199,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
