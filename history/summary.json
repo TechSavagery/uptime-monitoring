@@ -43,7 +43,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.35%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 461,
     "timeDay": 570,
     "timeWeek": 312,
@@ -77,8 +77,7 @@
       "2025-06-27": 20,
       "2025-04-01": 187,
       "2025-03-31": 237,
-      "2025-02-26": 23,
-      "2024-12-06": 123
+      "2025-02-26": 23
     }
   },
   {
@@ -91,14 +90,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.09%",
+    "uptimeYear": "54.08%",
     "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2025-12-05": 1432,
+      "2025-12-06": 50,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -285,7 +285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-05": 1432,
+      "2025-12-06": 50,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -648,8 +649,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -661,8 +661,8 @@
     "uptime": "67.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.04%",
-    "uptimeYear": "12.03%",
+    "uptimeMonth": "36.17%",
+    "uptimeYear": "12.04%",
     "time": 418,
     "timeDay": 643,
     "timeWeek": 676,
@@ -990,8 +990,7 @@
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
-      "2024-12-07": 1440,
-      "2024-12-06": 1440
+      "2024-12-07": 1440
     }
   },
   {
@@ -1105,19 +1104,20 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "99.80%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.79%",
     "time": 455,
-    "timeDay": 309,
-    "timeWeek": 275,
+    "timeDay": 275,
+    "timeWeek": 272,
     "timeMonth": 267,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-12-05": 38,
+      "2025-12-06": 50,
+      "2025-12-05": 46,
       "2025-12-04": 17,
       "2025-12-03": 26,
       "2025-12-02": 18,
@@ -1206,14 +1206,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.49%",
+    "uptimeYear": "28.47%",
     "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-12-05": 1432,
+      "2025-12-06": 50,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
