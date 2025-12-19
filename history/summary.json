@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 365,
-    "timeDay": 0,
-    "timeWeek": 604,
-    "timeMonth": 550,
-    "timeYear": 377,
+    "time": 364,
+    "timeDay": 300,
+    "timeWeek": 570,
+    "timeMonth": 542,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-10-20": 1019,
       "2025-10-19": 761,
@@ -98,14 +98,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.54%",
+    "uptimeYear": "50.52%",
     "time": 326,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2025-12-18": 1396,
+      "2025-12-19": 57,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -305,7 +306,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-18": 1396,
+      "2025-12-19": 57,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -668,8 +670,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -678,11 +679,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "68.07%",
+    "uptime": "68.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.70%",
-    "uptimeYear": "15.59%",
+    "uptimeMonth": "78.93%",
+    "uptimeYear": "15.61%",
     "time": 439,
     "timeDay": 843,
     "timeWeek": 723,
@@ -997,8 +998,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -1232,14 +1232,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.93%",
+    "uptimeYear": "24.91%",
     "time": 202,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-12-18": 1396,
+      "2025-12-19": 57,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
