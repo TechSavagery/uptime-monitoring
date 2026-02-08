@@ -139,7 +139,7 @@
     "timeMonth": 0,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2026-02-08": 653,
+      "2026-02-08": 678,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -391,7 +391,7 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-02-08": 653,
+      "2026-02-08": 678,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -765,7 +765,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "25.43%",
+    "uptimeYear": "25.44%",
     "time": 443,
     "timeDay": 469,
     "timeWeek": 391,
@@ -1202,10 +1202,10 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "82.79%",
-    "uptimeWeek": "88.53%",
+    "uptimeDay": "82.76%",
+    "uptimeWeek": "88.52%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "99.21%",
     "time": 395,
@@ -1214,7 +1214,7 @@
     "timeMonth": 250,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-02-08": 178,
+      "2026-02-08": 179,
       "2026-02-07": 140,
       "2026-02-06": 330,
       "2026-02-05": 122,
@@ -1263,7 +1263,7 @@
       "2025-12-19": 39,
       "2025-12-18": 273,
       "2025-12-15": 56,
-      "2025-12-14": 50
+      "2025-12-14": 23
     }
   },
   {
@@ -1322,14 +1322,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.83%",
+    "uptimeYear": "10.82%",
     "time": 202,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-02-08": 653,
+      "2026-02-08": 679,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
