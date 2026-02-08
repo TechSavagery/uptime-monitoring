@@ -51,7 +51,7 @@
     "time": 423,
     "timeDay": 409,
     "timeWeek": 369,
-    "timeMonth": 326,
+    "timeMonth": 327,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2026-02-07": 31,
@@ -139,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2026-02-07": 1422,
+      "2026-02-08": 3,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -390,7 +391,8 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-02-07": 1422,
+      "2026-02-08": 3,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
@@ -750,8 +752,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -763,7 +764,7 @@
     "uptime": "68.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "25.31%",
     "time": 443,
     "timeDay": 469,
@@ -1045,8 +1046,7 @@
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
-      "2025-02-09": 1440,
-      "2025-02-08": 1440
+      "2025-02-09": 1440
     }
   },
   {
@@ -1102,7 +1102,7 @@
     "time": 1475,
     "timeDay": 1049,
     "timeWeek": 1592,
-    "timeMonth": 1340,
+    "timeMonth": 1349,
     "timeYear": 1476,
     "dailyMinutesDown": {
       "2026-02-07": 31,
@@ -1202,19 +1202,20 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "88.34%",
-    "uptimeMonth": "93.94%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "88.13%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.23%",
-    "time": 396,
-    "timeDay": 175,
-    "timeWeek": 251,
+    "time": 395,
+    "timeDay": 191,
+    "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-02-07": 122,
+      "2026-02-08": 3,
+      "2026-02-07": 140,
       "2026-02-06": 330,
       "2026-02-05": 122,
       "2026-02-04": 43,
@@ -1329,7 +1330,8 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-02-07": 1422,
+      "2026-02-08": 4,
+      "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
       "2026-02-04": 1440,
