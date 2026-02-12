@@ -141,7 +141,7 @@
     "timeMonth": 0,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2026-02-12": 59,
+      "2026-02-12": 73,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -397,7 +397,7 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-02-12": 59,
+      "2026-02-12": 73,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -1322,7 +1322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infraspec.io.ico",
     "slug": "infraspec-io",
     "status": "down",
-    "uptime": "74.76%",
+    "uptime": "74.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1333,7 +1333,7 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-02-12": 59,
+      "2026-02-12": 74,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
