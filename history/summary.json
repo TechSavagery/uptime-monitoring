@@ -136,14 +136,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "27.79%",
+    "uptimeYear": "27.78%",
     "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2026-03-11": 1417,
+      "2026-03-12": 64,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -426,7 +427,8 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-03-11": 1417,
+      "2026-03-12": 64,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -786,8 +788,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -800,7 +801,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.85%",
-    "uptimeYear": "32.98%",
+    "uptimeYear": "32.99%",
     "time": 434,
     "timeDay": 527,
     "timeWeek": 363,
@@ -1054,8 +1055,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1215,10 +1215,10 @@
     "uptime": "99.70%",
     "uptimeDay": "85.34%",
     "uptimeWeek": "93.32%",
-    "uptimeMonth": "90.63%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "98.91%",
     "time": 309,
-    "timeDay": 221,
+    "timeDay": 223,
     "timeWeek": 231,
     "timeMonth": 285,
     "timeYear": 316,
@@ -1319,18 +1319,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infraspec.io.ico",
     "slug": "infraspec-io",
     "status": "down",
-    "uptime": "73.19%",
+    "uptime": "73.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "2.19%",
+    "uptimeYear": "2.17%",
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-03-11": 1417,
+      "2026-03-12": 64,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
