@@ -12,7 +12,7 @@
     "uptimeYear": "97.75%",
     "time": 375,
     "timeDay": 577,
-    "timeWeek": 516,
+    "timeWeek": 522,
     "timeMonth": 414,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -51,11 +51,11 @@
     "uptime": "99.69%",
     "uptimeDay": "87.98%",
     "uptimeWeek": "97.49%",
-    "uptimeMonth": "91.14%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "98.86%",
     "time": 407,
     "timeDay": 294,
-    "timeWeek": 303,
+    "timeWeek": 306,
     "timeMonth": 297,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -135,14 +135,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "27.52%",
+    "uptimeYear": "27.50%",
     "time": 314,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2026-03-12": 1425,
+      "2026-03-13": 70,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -415,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/heathermorgan.co.ico",
     "slug": "heather-morgan-co",
     "status": "down",
-    "uptime": "63.47%",
+    "uptime": "63.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -426,7 +427,8 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-03-12": 1425,
+      "2026-03-13": 70,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -786,8 +788,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -800,10 +801,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.85%",
-    "uptimeYear": "33.25%",
+    "uptimeYear": "33.27%",
     "time": 435,
     "timeDay": 508,
-    "timeWeek": 381,
+    "timeWeek": 385,
     "timeMonth": 364,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -1053,8 +1054,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -1070,7 +1070,7 @@
     "uptimeYear": "97.88%",
     "time": 357,
     "timeDay": 457,
-    "timeWeek": 327,
+    "timeWeek": 337,
     "timeMonth": 300,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -1110,11 +1110,11 @@
     "uptime": "99.66%",
     "uptimeDay": "87.97%",
     "uptimeWeek": "97.49%",
-    "uptimeMonth": "90.91%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "98.78%",
     "time": 1476,
     "timeDay": 1075,
-    "timeWeek": 2170,
+    "timeWeek": 2197,
     "timeMonth": 1535,
     "timeYear": 1477,
     "dailyMinutesDown": {
@@ -1197,7 +1197,7 @@
     "uptimeYear": "99.99%",
     "time": 642,
     "timeDay": 464,
-    "timeWeek": 531,
+    "timeWeek": 551,
     "timeMonth": 662,
     "timeYear": 578,
     "dailyMinutesDown": {
@@ -1214,7 +1214,7 @@
     "uptime": "99.70%",
     "uptimeDay": "86.71%",
     "uptimeWeek": "91.84%",
-    "uptimeMonth": "90.59%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "98.90%",
     "time": 310,
     "timeDay": 327,
@@ -1274,7 +1274,7 @@
     "uptimeYear": "95.73%",
     "time": 208,
     "timeDay": 267,
-    "timeWeek": 274,
+    "timeWeek": 285,
     "timeMonth": 248,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -1322,14 +1322,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "1.91%",
+    "uptimeYear": "1.90%",
     "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-03-12": 1425,
+      "2026-03-13": 70,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -1703,7 +1704,7 @@
     "uptimeYear": "98.24%",
     "time": 384,
     "timeDay": 594,
-    "timeWeek": 408,
+    "timeWeek": 420,
     "timeMonth": 349,
     "timeYear": 384,
     "dailyMinutesDown": {
@@ -1743,7 +1744,7 @@
     "uptimeYear": "97.25%",
     "time": 541,
     "timeDay": 589,
-    "timeWeek": 440,
+    "timeWeek": 458,
     "timeMonth": 536,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -1782,11 +1783,11 @@
     "uptime": "99.40%",
     "uptimeDay": "88.04%",
     "uptimeWeek": "97.51%",
-    "uptimeMonth": "90.87%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "98.83%",
     "time": 406,
     "timeDay": 389,
-    "timeWeek": 384,
+    "timeWeek": 381,
     "timeMonth": 366,
     "timeYear": 403,
     "dailyMinutesDown": {
