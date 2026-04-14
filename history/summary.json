@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2026-04-13": 1418,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-04-13": 1418,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -1229,19 +1229,19 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "65.39%",
-    "uptimeWeek": "76.11%",
-    "uptimeMonth": "85.88%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "64.59%",
+    "uptimeWeek": "75.90%",
+    "uptimeMonth": "85.83%",
     "uptimeYear": "98.71%",
     "time": 304,
-    "timeDay": 226,
-    "timeWeek": 261,
-    "timeMonth": 261,
+    "timeDay": 210,
+    "timeWeek": 257,
+    "timeMonth": 260,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2026-04-13": 488,
+      "2026-04-13": 509,
       "2026-04-12": 687,
       "2026-04-11": 157,
       "2026-04-10": 182,
@@ -1352,7 +1352,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 1419,
+      "2026-04-14": 0,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -1715,8 +1716,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
