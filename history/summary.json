@@ -141,14 +141,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.48%",
+    "uptimeYear": "18.47%",
     "time": 319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2026-04-14": 1419,
+      "2026-04-15": 0,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -465,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2026-04-14": 1419,
+      "2026-04-15": 0,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -825,8 +827,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -835,11 +836,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "68.88%",
+    "uptime": "68.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.80%",
-    "uptimeYear": "40.44%",
+    "uptimeYear": "40.45%",
     "time": 431,
     "timeDay": 456,
     "timeWeek": 435,
@@ -1066,8 +1067,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
@@ -1229,19 +1229,20 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "89.79%",
-    "uptimeWeek": "75.21%",
-    "uptimeMonth": "86.17%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "75.00%",
+    "uptimeMonth": "86.13%",
+    "uptimeYear": "98.71%",
     "time": 303,
-    "timeDay": 255,
-    "timeWeek": 261,
-    "timeMonth": 259,
+    "timeDay": 263,
+    "timeWeek": 258,
+    "timeMonth": 258,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2026-04-14": 126,
+      "2026-04-15": 0,
+      "2026-04-14": 147,
       "2026-04-13": 509,
       "2026-04-12": 687,
       "2026-04-11": 157,
@@ -1352,7 +1353,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1419,
+      "2026-04-15": 1,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -1715,8 +1717,7 @@
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
-      "2025-04-16": 1440,
-      "2025-04-15": 1440
+      "2025-04-16": 1440
     }
   },
   {
