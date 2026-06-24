@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/techsavagery.net.ico",
     "slug": "tech-savagery",
     "status": "up",
-    "uptime": "91.13%",
+    "uptime": "91.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
     "status": "down",
-    "uptime": "99.44%",
+    "uptime": "99.43%",
     "uptimeDay": "58.19%",
-    "uptimeWeek": "81.32%",
-    "uptimeMonth": "81.58%",
-    "uptimeYear": "97.79%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "81.33%",
+    "uptimeYear": "97.77%",
     "time": 383,
     "timeDay": 243,
     "timeWeek": 381,
@@ -131,7 +131,7 @@
       "2026-06-21": 113,
       "2026-06-22": 452,
       "2026-06-23": 596,
-      "2026-06-24": 8
+      "2026-06-24": 117
     }
   },
   {
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 23,
+      "2026-06-24": 132,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -724,7 +724,7 @@
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
-      "2026-06-24": 23,
+      "2026-06-24": 132,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -909,7 +909,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.02%",
+    "uptimeYear": "58.04%",
     "time": 431,
     "timeDay": 425,
     "timeWeek": 437,
@@ -1143,9 +1143,9 @@
     "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "58.23%",
-    "uptimeWeek": "81.36%",
-    "uptimeMonth": "81.74%",
-    "uptimeYear": "97.74%",
+    "uptimeWeek": "80.28%",
+    "uptimeMonth": "81.49%",
+    "uptimeYear": "97.72%",
     "time": 1413,
     "timeDay": 821,
     "timeWeek": 882,
@@ -1213,7 +1213,7 @@
       "2026-06-21": 116,
       "2026-06-22": 452,
       "2026-06-23": 596,
-      "2026-06-24": 6
+      "2026-06-24": 115
     }
   },
   {
@@ -1243,11 +1243,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "79.31%",
-    "uptimeWeek": "82.20%",
-    "uptimeMonth": "75.17%",
-    "uptimeYear": "97.12%",
+    "uptime": "99.26%",
+    "uptimeDay": "71.72%",
+    "uptimeWeek": "81.11%",
+    "uptimeMonth": "74.92%",
+    "uptimeYear": "97.10%",
     "time": 297,
     "timeDay": 244,
     "timeWeek": 215,
@@ -1307,7 +1307,7 @@
       "2026-06-21": 400,
       "2026-06-23": 299,
       "2026-06-22": 45,
-      "2026-06-24": 1
+      "2026-06-24": 110
     }
   },
   {
@@ -1392,7 +1392,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 23,
+      "2026-06-24": 132,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1876,11 +1876,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
     "status": "down",
-    "uptime": "99.02%",
+    "uptime": "99.01%",
     "uptimeDay": "59.30%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "81.87%",
-    "uptimeYear": "97.82%",
+    "uptimeWeek": "80.59%",
+    "uptimeMonth": "81.62%",
+    "uptimeYear": "97.80%",
     "time": 376,
     "timeDay": 291,
     "timeWeek": 327,
@@ -1945,7 +1945,7 @@
       "2026-06-21": 111,
       "2026-06-22": 447,
       "2026-06-23": 585,
-      "2026-06-24": 1
+      "2026-06-24": 110
     }
   }
 ]
