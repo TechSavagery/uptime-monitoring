@@ -60,16 +60,16 @@
     "url": "https://www.kirschenman.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "64.90%",
-    "uptimeWeek": "67.20%",
-    "uptimeMonth": "77.02%",
-    "uptimeYear": "97.46%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "60.93%",
+    "uptimeWeek": "67.23%",
+    "uptimeMonth": "76.89%",
+    "uptimeYear": "97.45%",
     "time": 379,
-    "timeDay": 228,
-    "timeWeek": 312,
-    "timeMonth": 319,
+    "timeDay": 206,
+    "timeWeek": 307,
+    "timeMonth": 317,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2026-03-12": 60,
@@ -130,7 +130,7 @@
       "2026-06-24": 266,
       "2026-06-25": 469,
       "2026-06-26": 845,
-      "2026-06-27": 485
+      "2026-06-27": 543
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 1360,
+      "2026-06-27": 1420,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -720,7 +720,7 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2026-06-27": 1360,
+      "2026-06-27": 1420,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -908,7 +908,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.10%",
+    "uptimeYear": "59.11%",
     "time": 431,
     "timeDay": 635,
     "timeWeek": 418,
@@ -1087,7 +1087,7 @@
     "timeDay": 359,
     "timeWeek": 369,
     "timeMonth": 369,
-    "timeYear": 378,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-06-28": 46,
       "2025-07-22": 27,
@@ -1136,16 +1136,16 @@
     "url": "https://gailwebber.com",
     "icon": "https://icons.duckduckgo.com/ip3/gailwebber.com.ico",
     "slug": "gail-webber",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "65.08%",
+    "uptimeDay": "60.94%",
     "uptimeWeek": "67.24%",
-    "uptimeMonth": "77.19%",
-    "uptimeYear": "97.42%",
-    "time": 1404,
-    "timeDay": 731,
-    "timeWeek": 827,
-    "timeMonth": 1200,
+    "uptimeMonth": "77.05%",
+    "uptimeYear": "97.40%",
+    "time": 1405,
+    "timeDay": 832,
+    "timeWeek": 869,
+    "timeMonth": 1204,
     "timeYear": 1383,
     "dailyMinutesDown": {
       "2026-03-15": 117,
@@ -1208,7 +1208,7 @@
       "2026-06-24": 266,
       "2026-06-25": 469,
       "2026-06-26": 841,
-      "2026-06-27": 485
+      "2026-06-27": 544
     }
   },
   {
@@ -1237,16 +1237,16 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "78.37%",
-    "uptimeWeek": "82.36%",
-    "uptimeMonth": "73.98%",
-    "uptimeYear": "97.03%",
+    "uptimeDay": "74.23%",
+    "uptimeWeek": "81.77%",
+    "uptimeMonth": "73.85%",
+    "uptimeYear": "97.02%",
     "time": 296,
-    "timeDay": 272,
-    "timeWeek": 232,
-    "timeMonth": 223,
+    "timeDay": 280,
+    "timeWeek": 236,
+    "timeMonth": 224,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2026-04-18": 70,
@@ -1303,7 +1303,7 @@
       "2026-06-22": 45,
       "2026-06-24": 397,
       "2026-06-25": 326,
-      "2026-06-27": 311
+      "2026-06-27": 371
     }
   },
   {
@@ -1388,7 +1388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 1360,
+      "2026-06-27": 1420,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -1871,16 +1871,16 @@
     "url": "https://restorativepartners.org",
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "65.80%",
-    "uptimeWeek": "67.61%",
-    "uptimeMonth": "77.34%",
-    "uptimeYear": "97.49%",
-    "time": 374,
-    "timeDay": 306,
-    "timeWeek": 323,
-    "timeMonth": 278,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "61.66%",
+    "uptimeWeek": "67.60%",
+    "uptimeMonth": "77.21%",
+    "uptimeYear": "97.48%",
+    "time": 375,
+    "timeDay": 327,
+    "timeWeek": 332,
+    "timeMonth": 280,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2026-03-12": 60,
@@ -1940,7 +1940,7 @@
       "2026-06-24": 261,
       "2026-06-25": 469,
       "2026-06-26": 840,
-      "2026-06-27": 475
+      "2026-06-27": 534
     }
   }
 ]
