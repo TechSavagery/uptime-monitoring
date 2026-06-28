@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 118,
+      "2026-06-28": 150,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -522,7 +522,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/heathermorgan.co.ico",
     "slug": "heather-morgan-co",
     "status": "down",
-    "uptime": "58.75%",
+    "uptime": "58.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -718,7 +718,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2026-06-28": 118,
+      "2026-06-28": 150,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -907,7 +907,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.13%",
+    "uptimeYear": "59.14%",
     "time": 431,
     "timeDay": 446,
     "timeWeek": 427,
@@ -1236,10 +1236,10 @@
     "slug": "cameron-moresco-cp-as",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "80.31%",
-    "uptimeWeek": "81.76%",
+    "uptimeDay": "78.05%",
+    "uptimeWeek": "81.59%",
     "uptimeMonth": "74.09%",
-    "uptimeYear": "97.03%",
+    "uptimeYear": "97.02%",
     "time": 296,
     "timeDay": 243,
     "timeWeek": 235,
@@ -1301,7 +1301,7 @@
       "2026-06-24": 397,
       "2026-06-25": 326,
       "2026-06-27": 371,
-      "2026-06-28": 1
+      "2026-06-28": 33
     }
   },
   {
@@ -1385,7 +1385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 118,
+      "2026-06-28": 151,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
