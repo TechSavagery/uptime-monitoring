@@ -61,10 +61,10 @@
     "slug": "kirschenman-enterprises-inc",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "69.41%",
+    "uptimeDay": "66.75%",
     "uptimeWeek": "68.31%",
-    "uptimeMonth": "75.63%",
-    "uptimeYear": "97.37%",
+    "uptimeMonth": "75.54%",
+    "uptimeYear": "97.36%",
     "time": 380,
     "timeDay": 391,
     "timeWeek": 283,
@@ -130,7 +130,7 @@
       "2026-06-27": 543,
       "2026-06-28": 112,
       "2026-06-29": 437,
-      "2026-06-30": 3
+      "2026-06-30": 41
     }
   },
   {
@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 96,
+      "2026-06-30": 134,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -717,7 +717,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2026-06-30": 96,
+      "2026-06-30": 134,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1133,11 +1133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gailwebber.com.ico",
     "slug": "gail-webber",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "69.56%",
+    "uptime": "99.32%",
+    "uptimeDay": "66.90%",
     "uptimeWeek": "68.33%",
-    "uptimeMonth": "75.80%",
-    "uptimeYear": "97.34%",
+    "uptimeMonth": "75.71%",
+    "uptimeYear": "97.33%",
     "time": 1401,
     "timeDay": 1086,
     "timeWeek": 897,
@@ -1205,7 +1205,7 @@
       "2026-06-27": 544,
       "2026-06-28": 111,
       "2026-06-29": 437,
-      "2026-06-30": 1
+      "2026-06-30": 39
     }
   },
   {
@@ -1384,7 +1384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 96,
+      "2026-06-30": 135,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -1866,11 +1866,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
     "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "69.25%",
+    "uptime": "98.83%",
+    "uptimeDay": "66.59%",
     "uptimeWeek": "68.55%",
-    "uptimeMonth": "75.94%",
-    "uptimeYear": "97.39%",
+    "uptimeMonth": "75.86%",
+    "uptimeYear": "97.38%",
     "time": 375,
     "timeDay": 316,
     "timeWeek": 308,
@@ -1935,7 +1935,7 @@
       "2026-06-27": 534,
       "2026-06-28": 111,
       "2026-06-29": 442,
-      "2026-06-30": 1
+      "2026-06-30": 39
     }
   }
 ]
