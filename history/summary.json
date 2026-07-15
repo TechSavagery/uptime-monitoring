@@ -61,10 +61,10 @@
     "slug": "kirschenman-enterprises-inc",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "80.59%",
-    "uptimeYear": "97.09%",
+    "uptimeDay": "84.11%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "80.45%",
+    "uptimeYear": "97.08%",
     "time": 383,
     "timeDay": 360,
     "timeWeek": 499,
@@ -129,7 +129,7 @@
       "2026-07-12": 196,
       "2026-07-13": 99,
       "2026-07-14": 154,
-      "2026-07-15": 3
+      "2026-07-15": 74
     }
   },
   {
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 10,
+      "2026-07-15": 81,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -701,7 +701,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2026-07-15": 10,
+      "2026-07-15": 81,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -907,7 +907,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.77%",
+    "uptimeYear": "63.78%",
     "time": 429,
     "timeDay": 397,
     "timeWeek": 461,
@@ -1118,14 +1118,14 @@
     "slug": "gail-webber",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "80.61%",
-    "uptimeYear": "97.09%",
+    "uptimeDay": "84.28%",
+    "uptimeWeek": "89.89%",
+    "uptimeMonth": "80.47%",
+    "uptimeYear": "97.07%",
     "time": 1406,
     "timeDay": 928,
     "timeWeek": 2268,
-    "timeMonth": 1216,
+    "timeMonth": 1213,
     "timeYear": 1389,
     "dailyMinutesDown": {
       "2026-04-12": 189,
@@ -1188,7 +1188,7 @@
       "2026-07-12": 196,
       "2026-07-13": 99,
       "2026-07-14": 154,
-      "2026-07-15": 1
+      "2026-07-15": 72
     }
   },
   {
@@ -1226,7 +1226,7 @@
     "time": 294,
     "timeDay": 245,
     "timeWeek": 263,
-    "timeMonth": 240,
+    "timeMonth": 241,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-04-29": 39,
@@ -1304,7 +1304,7 @@
     "time": 242,
     "timeDay": 361,
     "timeWeek": 296,
-    "timeMonth": 292,
+    "timeMonth": 297,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-07-22": 27,
@@ -1360,7 +1360,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.infraspec.io.ico",
     "slug": "infraspec-io",
     "status": "down",
-    "uptime": "66.91%",
+    "uptime": "66.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1371,7 +1371,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 10,
+      "2026-07-15": 81,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -1752,7 +1752,7 @@
     "time": 380,
     "timeDay": 371,
     "timeWeek": 446,
-    "timeMonth": 394,
+    "timeMonth": 400,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-07-22": 27,
@@ -1805,7 +1805,7 @@
     "time": 525,
     "timeDay": 438,
     "timeWeek": 473,
-    "timeMonth": 454,
+    "timeMonth": 460,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2025-07-22": 27,
@@ -1853,15 +1853,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
     "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "91.00%",
-    "uptimeMonth": "80.89%",
-    "uptimeYear": "97.12%",
+    "uptime": "98.73%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "80.75%",
+    "uptimeYear": "97.11%",
     "time": 371,
     "timeDay": 604,
     "timeWeek": 383,
-    "timeMonth": 305,
+    "timeMonth": 304,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-04-10": 27,
@@ -1921,7 +1921,7 @@
       "2026-07-12": 196,
       "2026-07-13": 94,
       "2026-07-14": 149,
-      "2026-07-15": 1
+      "2026-07-15": 72
     }
   }
 ]
