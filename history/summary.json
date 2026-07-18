@@ -59,16 +59,16 @@
     "url": "https://www.kirschenman.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "68.46%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "81.19%",
-    "uptimeYear": "97.04%",
+    "uptimeDay": "65.93%",
+    "uptimeWeek": "85.38%",
+    "uptimeMonth": "81.08%",
+    "uptimeYear": "97.03%",
     "time": 357,
-    "timeDay": 322,
-    "timeWeek": 389,
-    "timeMonth": 374,
+    "timeDay": 297,
+    "timeWeek": 380,
+    "timeMonth": 371,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2026-04-18": 89,
@@ -127,7 +127,7 @@
       "2026-07-15": 203,
       "2026-07-16": 68,
       "2026-07-17": 242,
-      "2026-07-18": 444
+      "2026-07-18": 491
     }
   },
   {
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 1285,
+      "2026-07-18": 1334,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -696,7 +696,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2026-07-18": 1285,
+      "2026-07-18": 1334,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -901,7 +901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matthewsvineyard.com.ico",
     "slug": "matthews-vineyard",
     "status": "up",
-    "uptime": "70.50%",
+    "uptime": "70.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1113,16 +1113,16 @@
     "url": "https://gailwebber.com",
     "icon": "https://icons.duckduckgo.com/ip3/gailwebber.com.ico",
     "slug": "gail-webber",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "68.55%",
-    "uptimeWeek": "85.89%",
-    "uptimeMonth": "81.22%",
-    "uptimeYear": "97.04%",
-    "time": 1399,
-    "timeDay": 878,
-    "timeWeek": 1830,
-    "timeMonth": 1194,
+    "uptimeDay": "66.02%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "81.11%",
+    "uptimeYear": "97.03%",
+    "time": 1400,
+    "timeDay": 868,
+    "timeWeek": 1820,
+    "timeMonth": 1196,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2026-04-20": 83,
@@ -1182,7 +1182,7 @@
       "2026-07-15": 203,
       "2026-07-16": 68,
       "2026-07-17": 242,
-      "2026-07-18": 441
+      "2026-07-18": 489
     }
   },
   {
@@ -1214,7 +1214,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "91.58%",
-    "uptimeWeek": "94.03%",
+    "uptimeWeek": "94.40%",
     "uptimeMonth": "89.77%",
     "uptimeYear": "96.96%",
     "time": 294,
@@ -1366,7 +1366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-18": 1285,
+      "2026-07-18": 1334,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -1847,16 +1847,16 @@
     "url": "https://restorativepartners.org",
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
-    "status": "down",
+    "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "68.97%",
-    "uptimeWeek": "86.25%",
-    "uptimeMonth": "81.46%",
-    "uptimeYear": "97.07%",
+    "uptimeDay": "66.44%",
+    "uptimeWeek": "85.77%",
+    "uptimeMonth": "81.35%",
+    "uptimeYear": "97.06%",
     "time": 370,
-    "timeDay": 299,
-    "timeWeek": 350,
-    "timeMonth": 307,
+    "timeDay": 303,
+    "timeWeek": 352,
+    "timeMonth": 308,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-04-15": 54,
@@ -1914,7 +1914,7 @@
       "2026-07-15": 203,
       "2026-07-16": 68,
       "2026-07-17": 242,
-      "2026-07-18": 436
+      "2026-07-18": 484
     }
   }
 ]
