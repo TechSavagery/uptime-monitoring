@@ -59,14 +59,14 @@
     "url": "https://www.kirschenman.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "80.37%",
-    "uptimeWeek": "86.14%",
-    "uptimeMonth": "81.00%",
-    "uptimeYear": "97.03%",
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "76.77%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "80.87%",
+    "uptimeYear": "97.02%",
     "time": 356,
-    "timeDay": 312,
+    "timeDay": 324,
     "timeWeek": 382,
     "timeMonth": 369,
     "timeYear": 346,
@@ -128,7 +128,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 491,
-      "2026-07-19": 68
+      "2026-07-19": 121
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 703,
+      "2026-07-19": 759,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -696,7 +696,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2026-07-19": 703,
+      "2026-07-19": 759,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1114,17 +1114,17 @@
     "url": "https://gailwebber.com",
     "icon": "https://icons.duckduckgo.com/ip3/gailwebber.com.ico",
     "slug": "gail-webber",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "80.74%",
-    "uptimeWeek": "86.23%",
-    "uptimeMonth": "81.03%",
-    "uptimeYear": "97.03%",
-    "time": 1400,
-    "timeDay": 1032,
-    "timeWeek": 1905,
-    "timeMonth": 1201,
-    "timeYear": 1380,
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "80.91%",
+    "uptimeYear": "97.02%",
+    "time": 1401,
+    "timeDay": 1063,
+    "timeWeek": 1907,
+    "timeMonth": 1207,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2026-04-21": 46,
       "2026-04-22": 122,
@@ -1183,7 +1183,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 489,
-      "2026-07-19": 61
+      "2026-07-19": 116
     }
   },
   {
@@ -1368,7 +1368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 704,
+      "2026-07-19": 760,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1849,16 +1849,16 @@
     "url": "https://restorativepartners.org",
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
-    "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "81.29%",
-    "uptimeYear": "97.06%",
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "77.88%",
+    "uptimeWeek": "85.91%",
+    "uptimeMonth": "81.16%",
+    "uptimeYear": "97.05%",
     "time": 370,
-    "timeDay": 301,
-    "timeWeek": 354,
-    "timeMonth": 309,
+    "timeDay": 279,
+    "timeWeek": 351,
+    "timeMonth": 308,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2026-04-18": 89,
@@ -1916,7 +1916,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 484,
-      "2026-07-19": 55
+      "2026-07-19": 111
     }
   }
 ]
