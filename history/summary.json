@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kirschenman.com.ico",
     "slug": "kirschenman-enterprises-inc",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "86.29%",
-    "uptimeMonth": "80.87%",
-    "uptimeYear": "97.03%",
+    "uptime": "99.25%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "80.71%",
+    "uptimeYear": "97.01%",
     "time": 357,
     "timeDay": 249,
     "timeWeek": 336,
@@ -127,7 +127,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 491,
-      "2026-07-19": 124
+      "2026-07-19": 193
     }
   },
   {
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 1350,
+      "2026-07-19": 1420,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -695,7 +695,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2026-07-19": 1350,
+      "2026-07-19": 1420,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -910,7 +910,7 @@
     "timeDay": 497,
     "timeWeek": 436,
     "timeMonth": 406,
-    "timeYear": 428,
+    "timeYear": 427,
     "dailyMinutesDown": {
       "2025-09-04": 1124,
       "2025-09-03": 1440,
@@ -1065,7 +1065,7 @@
     "timeDay": 385,
     "timeWeek": 425,
     "timeMonth": 370,
-    "timeYear": 382,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-07-22": 27,
       "2025-08-10": 21,
@@ -1114,16 +1114,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gailwebber.com.ico",
     "slug": "gail-webber",
     "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "91.88%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "97.03%",
+    "uptime": "99.25%",
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "80.75%",
+    "uptimeYear": "97.02%",
     "time": 1400,
     "timeDay": 1215,
     "timeWeek": 984,
     "timeMonth": 1199,
-    "timeYear": 1380,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2026-04-22": 122,
       "2026-04-26": 104,
@@ -1181,7 +1181,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 489,
-      "2026-07-19": 117
+      "2026-07-19": 186
     }
   },
   {
@@ -1210,19 +1210,18 @@
     "url": "https://www.cameronmorescocpas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cameronmorescocpas.com.ico",
     "slug": "cameron-moresco-cp-as",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "96.97%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "90.22%",
+    "uptimeYear": "96.98%",
     "time": 293,
     "timeDay": 222,
     "timeWeek": 256,
     "timeMonth": 246,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-05-01": 60,
       "2026-05-02": 181,
       "2026-05-03": 205,
       "2026-05-04": 214,
@@ -1282,7 +1281,7 @@
       "2026-07-15": 69,
       "2026-07-17": 80,
       "2026-07-18": 115,
-      "2026-07-19": 55
+      "2026-07-19": 56
     }
   },
   {
@@ -1366,7 +1365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 1351,
+      "2026-07-19": 1420,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1848,11 +1847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/restorativepartners.org.ico",
     "slug": "restorative-partners",
     "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "86.61%",
-    "uptimeMonth": "81.16%",
-    "uptimeYear": "97.06%",
+    "uptime": "98.71%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "81.00%",
+    "uptimeYear": "97.05%",
     "time": 370,
     "timeDay": 289,
     "timeWeek": 347,
@@ -1914,7 +1913,7 @@
       "2026-07-16": 68,
       "2026-07-17": 242,
       "2026-07-18": 484,
-      "2026-07-19": 112
+      "2026-07-19": 181
     }
   }
 ]
